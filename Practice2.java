@@ -5,7 +5,7 @@ public class Practice2 {
 	public static void main(String[] args) {
 		
 		// print rectangle pattern
-		int n = 4;
+		int n = 5;
 		int m = 5;
 		
 		for (int i = 1; i<=n; i++ ) {
